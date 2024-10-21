@@ -1,5 +1,4 @@
 
-
 # 🎶 Music Master
 
 Welcome to **Music Master**, your go-to application for managing and enjoying your favorite music. This project is designed to provide an intuitive interface for music lovers to easily navigate and play their favorite tracks.
@@ -82,16 +81,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 For any questions or suggestions, feel free to reach out:
 
-- **Tushar Dey**: [t.k.d.dey2033929837@gmail.com](mailto:t.k.d.dey2033929837@gmail.com)
+- **Tushar kanti Dey**: [t.k.d.dey2033929837@gmail.com](mailto:t.k.d.dey2033929837@gmail.com)
 - **GitHub**: [Tushar626-byte](https://github.com/Tushar626-byte)
+- **Instagram**: [ff_tushar999](https://instagram.com/ff_tushar999)
 
 ---
 
 Thank you for checking out **Music Master**! Enjoy your music! 🎧
 ```
 
-### Notes:
-
-1. **Images**: Replace `path_to_your_home_screen_image.png` and `path_to_your_playlist_screen_image.png` with actual paths to your screenshots if you have them.
-2. **Customization**: Adjust the features, technologies, and acknowledgments based on your actual project details.
-3. **License**: Make sure to include an actual license file in your repository if you reference it in the README.
+This includes your Instagram ID with a link to your profile for easy access.
